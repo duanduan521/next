@@ -1,0 +1,5 @@
+.navList {
+  // @apply
+  @apply flex w-full flex-col items-center justify-start bg-white;
+  @apply md:hidden;
+}
